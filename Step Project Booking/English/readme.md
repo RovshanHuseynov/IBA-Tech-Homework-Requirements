@@ -53,7 +53,7 @@ The main menu which the user sees upon opening the app should have the following
  - You will learn to commit Code review of the code which was written by your colleagues. The project must be set up in such a manner, so that every Pull Request is able to be merged into master after it gets Approve from other team members. You can find the description of setting up the repository [here](https://yangsu.github.io/pull-request-tutorial/ ).
 
 #### Non-obligatory task, advanced level:
- - Create a separate class  для логгирования, write down all the actions of the use in a log file.
+ - Create a separate class for logging, write down all the actions of the use in a log file.
  - Before showing the main menu authorize the user - he must enter his login and password. If such a user exists the main menu is displayed and вся работа происходит от имени этого пользователя. For example section **My bookings** displays information about all the bookings of the current user. A new section is added to main menu **End session**, it makes a logout, so that login and password of an other user can be entered. 
  - Add flight not only from Kiev but also between other cities. Finding connecting flights with connections not longer than 12 hours. 
 #### Good luck!
